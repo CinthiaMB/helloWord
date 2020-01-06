@@ -1,0 +1,6 @@
+E:\repositories\git\github\personal\helloWord\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\repositories\git\github\personal\helloWord\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\repositories\git\github\personal\helloWord\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\repositories\git\github\personal\helloWord\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+E:\repositories\git\github\personal\helloWord\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\repositories\git\github\personal\helloWord\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
